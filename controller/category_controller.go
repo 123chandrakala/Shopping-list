@@ -2,8 +2,8 @@ package controller
 
 import (
 	"net/http"
-	"Shopping list/cache"
-	"Shopping list/model"
+	"shoppinglist/cache"
+	"shoppinglist/model"
 
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"

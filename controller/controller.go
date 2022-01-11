@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"Shopping list/model/wrapper"
+	"shoppinglist/model/wrapper"
 
 	"gorm.io/gorm"
 )
