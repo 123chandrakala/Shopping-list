@@ -3,7 +3,7 @@ package cache
 import (
 	"fmt"
 	"net/http"
-	"shoppinglist/model"
+	"Shopping list/model"
 
 	"github.com/gin-gonic/gin"
 	"github.com/gomodule/redigo/redis"

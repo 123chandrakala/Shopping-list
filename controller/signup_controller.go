@@ -2,9 +2,9 @@ package controller
 
 import (
 	"net/http"
-	"shoppinglist/cache"
-	"shoppinglist/model"
-	"shoppinglist/util"
+	"Shopping list/cache"
+	"Shopping list/model"
+	"Shopping list/util"
 
 	//"shoppinglist/model/wrapper"
 
